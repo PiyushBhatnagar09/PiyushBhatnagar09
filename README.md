@@ -10,7 +10,7 @@
 <img src="https://api.daily.dev/devcards/XYZ.png?r=zpj" width="400" alt="Ayush Kanduri's Dev Card" align="right"/>
 </a> -->
 <a href="https://www.linkedin.com/in/piyush-bhatnagar-b4b70425b/">
-  <img src="https://drive.google.com/file/d/1RKkf1NZn1CBOWiJkXIB37vk65v25UbCq/view?usp=drive_link" width="400" alt="Piyush Bhatnagar's Linkedin profile" align="right"/>
+  <img src="https://drive.google.com/file/d/1GO1BgL4tucSkIjSGmixkByeGpF_6b2ve/view?usp=drive_link" width="400" alt="Piyush Bhatnagar's Linkedin profile" align="right"/>
 </a>
 
 ### Hi, I'm Piyush Bhatnagar, a passionate 𝗙𝘂𝗹𝗹 𝗦𝘁𝗮𝗰𝗸 𝗪𝗲𝗯 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿 from 𝗜𝗻𝗱𝗶𝗮!

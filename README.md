@@ -9,7 +9,7 @@
 <!-- <a href="https://app.daily.dev/ayushkanduri">
 <img src="https://api.daily.dev/devcards/XYZ.png?r=zpj" width="400" alt="Ayush Kanduri's Dev Card" align="right"/>
 </a> -->
-[<img src="https://drive.google.com/file/d/1GO1BgL4tucSkIjSGmixkByeGpF_6b2ve/view?usp=drive_link" width="400" alt="Piyush Bhatnagar's Linkedin profile" align="right"/>](https://www.linkedin.com/in/piyush-bhatnagar-b4b70425b/)
+[<img src="https://drive.google.com/file/d/1GO1BgL4tucSkIjSGmixkByeGpF_6b2ve/view" width="400" alt="Piyush Bhatnagar's Linkedin profile" align="right"/>](https://www.linkedin.com/in/piyush-bhatnagar-b4b70425b/)
 
 ### Hi, I'm Piyush Bhatnagar, a passionate 𝗙𝘂𝗹𝗹 𝗦𝘁𝗮𝗰𝗸 𝗪𝗲𝗯 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿 from 𝗜𝗻𝗱𝗶𝗮!
 - 🚀 I’m currently looking for a Job with a role of MERN Stack Web Developer.

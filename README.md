@@ -1,4 +1,4 @@
-# Welcome! Happy to see you here&ensp; <img src="https://blog.joypixels.com/content/images/2019/06/waving_hand_sign_1024.gif" width="37px" height="37px" />
+# Welcome! Happy to see you here&ensp;<img src="https://blog.joypixels.com/content/images/2019/06/waving_hand_sign_1024.gif" width="37px" height="37px" />
 
 <!-- <img src="https://media.giphy.com/media/xUPGGDNsLvqsBOhuU0/giphy.gif" width="280px" height="200px" /> -->
 

@@ -1,87 +1,75 @@
-# Welcome! Happy to see you here&ensp;<img src="https://blog.joypixels.com/content/images/2019/06/waving_hand_sign_1024.gif" width="37px" height="37px" />
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=piyushbhatnagar09.piyushbhatnagar09&"  />
+</div>
 
-<!-- <img src="https://media.giphy.com/media/xUPGGDNsLvqsBOhuU0/giphy.gif" width="280px" height="200px" /> -->
+###
 
-![banner (1)](https://user-images.githubusercontent.com/76626529/185743060-d78e7a84-2079-4e45-a634-a0215431e921.png)
-<br />
-<br />
+<p align="center">Hello there, I'm Piyush👋</p>
 
-### Hi, I'm Piyush Bhatnagar, a passionate 𝗙𝘂𝗹𝗹 𝗦𝘁𝗮𝗰𝗸 𝗪𝗲𝗯 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿 from 𝗜𝗻𝗱𝗶𝗮!
-- 🚀 I’m currently looking for a Job with a role of MERN Stack Web Developer.
-- 🔭 I’m currently working with MongoDB, ExpressJS, ReactJS, NodeJS.
-- 🌱 I’m currently learning MERN Stack & building Projects in public.
-- 👯 I’m looking to collaborate with people with Amazing Ideas.
-- ⚡ Fun fact: I love connecting & socializing with new people.
-<br />
+###
 
-## 📞 Connect with me
+<p align="left">I'm Piyush Bhatnagar — a passionate Full Stack Web Developer from India 🇮🇳<br>🔭 Currently building full-stack projects with React.js, Next.js, Node.js, MongoDB, Express.js<br><br>🤖 Integrating AI tools (ChatGPT, Gemini, Vision API) into real-world applications<br><br>💡 Exploring system design and scaling practices<br><br>👯 Looking to collaborate on impactful and scalable web projects<br><br>⚡ Fun fact: I love coding challenges & building in public!</p>
 
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/piyush-bhatnagar-b4b70425b/)
-[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:pbpiyush09@gmail.com)
-[<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/PiyushBhatnagar09)
-[<img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" />](https://leetcode.com/)
+###
 
-<!--[𝐏𝐨𝐫𝐭𝐟𝐨𝐥𝐢𝐨 𝐖𝐞𝐛𝐬𝐢𝐭𝐞](http://ayushkanduri.dev)&emsp;|&emsp;-->
-<span>[𝐑𝐞𝐬𝐮𝐦𝐞]()</span>
+<div align="center">
+  <a href="https://www.linkedin.com/in/bhatnagar-piyush/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="mailto:piyushbhatnagar092@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="gmail logo"  />
+  </a>
+  <a href="https://x.com/PBpiyush9" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="twitter logo"  />
+  </a>
+</div>
 
-<br />
+###
 
-## 🔥 Tech Stack
+<img align="right" height="200" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"  />
 
-### Front End Skills :
-![JAVASCRIPT](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-![BOOTSTRAP](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![REACT](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![STYLEDCOMPONENTS](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
-<!-- ![REDUX](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white) -->
-![REACTROUTER](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
+###
 
-### Back End Skills :
-![NODE](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![EXPRESS](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
-![JWT](https://img.shields.io/badge/json%20web%20tokens-323330?style=for-the-badge&logo=json-web-tokens&logoColor=pink)
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" height="40" alt="solidity logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="storybook logo"  />
+</div>
 
-### Database Skills :
-![MONGODB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+###
 
-### Tools :
-<!-- ![NETLIFY](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white) -->
-<!-- ![HEROKU](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white) -->
-![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-<!-- ![VERCEL](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white) -->
-<!-- ![VSC](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) -->
-![GIT](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+<br clear="both">
 
-<br />
+<img src="https://raw.githubusercontent.com/piyushbhatnagar09/piyushbhatnagar09/output/snake.svg" alt="Snake animation" />
 
-<!-- 
-## 📊 GitHub Stats
+###
 
-<p align="left">
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=piyushbhatnagar09&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=piyushbhatnagar09&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=piyushbhatnagar09&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+</div>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Ayush-Kanduri&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-<br />
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ayush-Kanduri&theme=radical&show_icons=true&hide_border=true)
-<br />
-[![GitHub Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ayush-Kanduri&theme=radical&hide_border=true&layout=compact)](https://github.com/Ayush-Kanduri/github-readme-stats)
-<br />
-<img src="https://activity-graph.herokuapp.com/graph?username=Ayush-Kanduri&bg_color=0f2d3d&color=1cadfb&line=1cadfb&point=1cadfb&area=true&hide_border=true">
-
-</p>
-
-## ⭐ Thanks for the visit!
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Ayush-Kanduri&theme=radical)](https://github.com/Ayush-Kanduri)
-<br />
-<br />
-[![Visitor Count](https://visitcount.itsvg.in/api?id=Ayush-Kanduri&icon=0&color=0)](https://visitcount.itsvg.in)
-<br />
-<br />
-![Quote of the Day](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-<br />
-<br /> 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=6000&lines=%E2%80%9CBelieve+in+yourself.%E2%80%9D)](https://git.io/typing-svg) -->
+###

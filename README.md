@@ -36,7 +36,7 @@ I'm <strong>Piyush Bhatnagar</strong> — a passionate <strong>Full Stack Web De
 
 ---
 
-<img align="right" height="380" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"  />
+<img align="right" height="300" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"  />
 
 ### 🛠️ Tech Stack
 
